@@ -1,78 +1,109 @@
-Data science
-From Wikipedia, the free encyclopedia
-Jump to navigationJump to search
-Not to be confused with information science.
-
-The existence of Comet NEOWISE (here depicted as a series of red dots) was discovered by analyzing astronomical survey data acquired by a space telescope, the Wide-field Infrared Survey Explorer.
-Part of a series on
-Machine learning
-and data mining
-Scatterplot featuring a linear support vector machine's decision boundary (dashed line)
-Problems
-Supervised learning
-(classification • regression)
-Clustering
-Dimensionality reduction
-Structured prediction
-Anomaly detection
-Artificial neural network
-Reinforcement learning
-Theory
-Machine-learning venues
-Related articles
-vte
-Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
-
-Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyze actual phenomena" with data.[3] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[4][5]
-
-A data scientist is someone who creates programming code, and combines it with statistical knowledge to create insights from data.[6]
+What Is a Business?
+The term business refers to an organization or enterprising entity engaged in commercial, industrial, or professional activities. Businesses can be for-profit entities or they can be non-profit organizations that operate to fulfill a charitable mission or further a social cause. Businesses range in scale from sole proprietorships to international corporations and can range in size from small to large.1
 
 
-Contents
-1	Foundations
-1.1	Relationship to statistics
-2	Etymology
-2.1	Early usage
-2.2	Modern usage
-3	Market
-4	Technologies and techniques
-4.1	Techniques
-5	See also
-6	References
-Foundations
-Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data), and applying the knowledge and actionable insights from data to solve problems in a wide range of application domains.[7] The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, information visualization, data integration, graphic design, complex systems, communication and business.[8][9] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.[10][11] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[12]
+The term business can also be used to define the efforts and activities of individuals to produce and sell goods and services for profit.2
 
-Relationship to statistics
-Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[13] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[14] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. images) and emphasizes prediction and action.[15] Andrew Gelman of Columbia University has described statistics as a nonessential part of data science.[16] Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing, and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program. He describes data science as an applied field growing out of traditional statistics.[17] In summary, data science can be therefore described as an applied branch of statistics.
 
-Etymology
-Early usage
-In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[17] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C.F. Jeff Wu used the term Data Science for the first time as an alternative name for statistics.[18] Later, attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[19][20]
+KEY TAKEAWAYS
+A business is defined as an organization or enterprising entity engaged in commercial, industrial, or professional activities.
+Businesses can be for-profit entities or non-profit organizations.
+Business types range from limited liability companies, sole proprietorships, corporations, and partnerships.
+There are businesses that run as small operations in a single industry while others are large operations that spread across many industries around the world.
+Apple and Walmart are two examples of well-known, successful businesses.
+1:10
+Business
 
-The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name for computer science.[21] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[21] However, the definition was still in flux. After the 1985 lecture in the Chinese Academy of Sciences in Beijing, in 1997 C.F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting, or limited to describing data.[22] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[20]
+Understanding a Business
+The term business can take on two different meanings. The first refers to an entity that operates for commercial, industrial, or professional reasons. The entity generally begins with a concept (the idea) and a name. Extensive market research may be required to determine how feasible it is to turn the idea into a business.3
 
-During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[23][21]
 
-Modern usage
-The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[24] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[23] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[23] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[25]
+Businesses often require business plans before operations begin. A business plan is a formal document that outlines the company's goals and objectives. It also lists the strategies and ways it plans to achieve these goals and objectives to succeed. Business plans are almost always essential when you want to borrow capital in order to begin operations.3
 
-The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[26] Though it was used by the National Science Board in their 2005 report, "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century," it referred broadly to any key role in managing a digital data collection.[27]
 
-There is still no consensus on the definition of data science and it is considered by some to be a buzzword.[28]
+Determining the legal structure of the business is another important factor to consider. Business owners may need to secure permits and licenses and follow registration requirements in order to begin legal operations.3 Corporations are considered to be juridical persons in many countries, meaning that the business can own property, take on debt, and be sued in court.
 
-Market
-Big data is becoming a tool for businesses and companies of all sizes.[29] The availability and interpretation of big data has altered the business models of old industries and enabled the creation of new ones.[29] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[30]
 
-Technologies and techniques
-There is a variety of different technologies and techniques that are used for data science which depend on the application. More recently, full-featured, end-to-end platforms have been developed and heavily used for data science and machine learning.
+Most businesses operate with the purpose of generating a profit. But that isn't necessarily an essential requirement of running a business. Some businesses have a goal to advance a certain cause. As such, these entities are referred to as for-profit businesses. Organizations that aren't profit-based are referred to as not-for-profit or nonprofits. These entities may operate as:
 
-Techniques
-Further information: Statistics § Methods
-Linear regression
-Logistic regression
-Decision trees are used as prediction models for classification and data fitting. The decision tree structure can be used to generate rules able to classify or predict target/class/label variable based on the observation attributes.
-Support-vector machine (SVM)
-Cluster analysis is a technique used to group data together.
-Dimensionality reduction is used to reduce the complexity of data computation so that it can be performed more quickly.
-Machine learning is a technique used to perform tasks by inferencing patterns from data
-Naive Bayes classifiers are used to classify by applying the Bayes' theorem. They are mainly used in datasets with large amounts of data, and can aptly generate accurate results.
+Charities
+Arts, culture, educational, and recreational enterprises
+Political and advocacy groups
+Social services organizations4
+The second definition of business refers to all of the activities involved with the sale and purchase of goods and services. Business activity can take place anywhere, whether that's in a physical storefront, online, or even on a roadside. Anyone who conducts business activity to earn a living must report this income to the Internal Revenue Service (IRS).
+
+ A name is often one of the most valuable assets of a business, so it's important that business owners choose their name wisely.
+Types of Businesses
+Many businesses organize themselves around some sort of hierarchy or bureaucracy, where positions in a company have established roles and responsibilities. The most common structures include:
+
+Sole proprietorships: As the name suggests, a sole proprietorship is owned and operated by a single natural person. There is no legal separation between the business and the owner, which means the tax and legal liabilities of the business fall on the owner.
+Partnerships: A partnership is a business relationship between two or more people who join forces to conduct business. Each partner contributes resources and money to the business and shares in the profits and losses of the business. The shared profits and losses are recorded on each partner's tax return. 
+Corporations: A corporation is a business in which a group of people acts together as a single entity. Owners are commonly referred to as shareholders who exchange consideration for the corporation's common stock. Incorporating a business releases owners of the financial liability of business obligations. A corporation comes with unfavorable taxation rules for the owners of the business.
+Limited liability companies (LLCs): This is a relatively new business structure and was first available in Wyoming in 1977 and other states in the 1990s. A limited liability company combines the pass-through taxation benefits of a partnership with the limited liability benefits of a corporation.
+Several lines of theory are engaged with understanding business administration including organizational behavior, organization theory, and strategic management.
+
+Business Sizes
+Business sizes vary. Small owner-operated companies are called small businesses. They are normally run by one person or a small group of people. These companies include family restaurants, home-based companies, clothing, books and publishing companies, dog walking businesses, and people who run trades. Profits are generally low, but enough to sustain the operations, as long as the business owner(s) are able to run in the black.
+
+Mid-sized businesses are classified as those that usually earn between $50 million and $1 billion in revenue. These companies are more established than small businesses, with an employee base that ranges between 100 to 999 people.5 Forbes listed Fair Isaac, the company behind FICO, as the top mid-sized employer in the United States in 2021. The company had more than 4,000 employees and earned $1.295 billion in revenue in 2020.67
+
+Larger businesses, which commonly operate as corporations, are those that employ more than 1,000 people and generate more than $1 billion in revenue.8 They may issue corporate stock to finance operations. In this case, the company is publicly traded and has certain reporting and operating restrictions, unlike smaller businesses that can operate independently of regulators. Multinational conglomerates like General Electric and Walmart are examples of corporations.
+
+Business Industries
+A company may describe its business by communicating the industry in which it operates. For example, the real estate business, advertising business, or mattress production business are industries in which a business can exist.
+
+Because the term business can be interchanged with day-to-day operations as well as the overall formation of a company, the term is often used to indicate transactions regarding an underlying product or service. For example, ExxonMobil conducts its business by providing oil.
+
+Examples of Businesses
+Apple
+Apple is well known around the world for its innovative products, including its personal computers, and range of smart devices, as well as its range of services, such as music and video streaming, and production services.
+
+Founded in 1977 by Steve Jobs and Steve Wozniak, Apple became the first publicly traded company whose value hit $1 trillion.9 The company's stock trades under the ticker symbol AAPL on the Nasdaq. Intraday trading as of Sept. 17, 2021, ranged around $145, while the market capitalization for the company hit $2.42 trillion.
+
+The company employs more than two million people, including 80,000 individuals who work as direct Apple employees. The remaining jobs include suppliers, manufacturers, and others who are supported through the Apple store.10 The company reported net sales of $274 billion in 2020, driven primarily by its product segment.11
+
+Apple's key to success lies in its family of products and its ability to innovate. The company focuses on design and quality—two key elements that were a key part of Jobs' corporate vision. The products that Apple creates and markets can be used under the same operating system, which allows consumers to sync them together, thus lowering corporate costs. Apple's ability to create, develop, and market new products and services also put it ahead of its competition.
+
+Walmart
+Walmart is one of the world's largest retailers and operates as a multinational corporation. The company was founded in 1962 by Sam Walton in Arkansas.12 It has more than 10,500 locations in more than 24 different countries and employs over 2.3 million people.1312
+
+The company went public in 1970 and trades on the New York Stock Exchange (NYSE) under the ticker symbol WMT. As of Sept. 17, 2021, Walmart stock traded around $145 per share and its market cap was $405.92 billion.
+
+Walmart earned $559.2 billion in revenue for the full year of 2021. This figure was driven by online sales through its ecommerce segment and international sales, which were primarily recorded in Mexico and Canada.
+
+Walmart's success can be attributed to several factors, including its brand name, pricing, diversification (especially with the addition of its online marketplace), efficient supply chain management, and its financial strength.14
+How Do You Start a Business?
+There are a number of steps you need to go through in order to start a business. This includes conducting market research, developing a business plan, seeking capital or other forms of funding, choosing a location and business structure, picking the right name, submitting registration paperwork, obtaining tax documents (employer and taxpayer IDs), and pulling permits and licenses. It's also a good idea to set up a bank account with a financial institution to facilitate your everyday banking needs.
+
+How Do You Start an Online Business?
+Starting an online business involves some of the same steps as a traditional business—with a few exceptions.
+
+You still need to do your market research and develop a business plan before anything else. Once that's done, choose a name and structure for your business, then file any paperwork to register your organization.
+
+Rather than finding a physical location, choose a platform and design your website. Before launching your business, you should find a way to build up your target market, whether that's through traditional marketing means or more creative ways like social media.
+
+How Do You Come Up With a Business Name?
+Your business name should fit the type of organization you plan to run and it should be catchy—something that people will gravitate toward and remember, not to mention associate with you as well as the products and services you plan to sell. Originality is key. And most importantly, it should be a name that isn't already in use by someone else. Go online and do a business name search to see if it's available or already registered.
+
+How Do You Write a Business Plan?
+Business plans are essential to run your business and can help you secure the funding you need to start your operations. You can choose between a traditional or a lean business plan.
+
+A traditional business plan is very comprehensive with a lot of details. This includes a summary of the company and the ways it will succeed. It also includes information about your market, management, products and services, marketing, and sales projections.
+
+Lean formats are shorter but still contain very useful information such as partnership details, outlines of the business activities and customer relationships, cost structures, and revenue streams.
+
+You can find templates online or come up with your own business plan document.
+
+How Do You Get a Business Loan?
+Not everyone has the funds to start their own business, which is where loans come into play.
+
+Decide what kind of loan you want. You can go to a traditional lender or one that operates online. Or you may want to consider a government-backed loan, such as those offered through the Small Business Administration.
+
+Regardless of what option you choose, prospective lenders want to see details on paper, especially if and when you're just starting out. Make sure you have your business plan ready, including outlines of costs and revenue streams.
+
+As a new business owner, ensure you have a good credit score (since your business isn't off the ground yet) and you may need to put down some collateral to secure the loan if you're approved.
+
+The Bottom Line
+Businesses are a very important part of the economy. They provide products and services that can be purchased by individuals and other companies. Businesses range in size from small to large and operate in many different industries. Business structures also vary from sole partnerships to major corporations that provide shareholder equity to their owners.
+
+If you're looking to start your own business, make sure you do your research and develop a business plan. This allows you to raise the money you need to start your operations. If you keep it simple in the beginning, you may end up with an idea that can help you develop your business and reach the same heights as Apple and Walmart.
