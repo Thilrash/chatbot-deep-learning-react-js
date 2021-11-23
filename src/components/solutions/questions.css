@@ -1,0 +1,16 @@
+.solutionCard-container {
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #d6026c;
+  }
+  
+  .solutionCard-button {
+    color: #d6026c;
+    background: transparent;
+    padding: 8px;
+    border-radius: 3px;
+    border-color: #d6026c;
+    margin: 5px;
+    width: 150px;
+  }
+  

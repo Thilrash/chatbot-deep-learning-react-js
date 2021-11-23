@@ -1,0 +1,78 @@
+Data science
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Not to be confused with information science.
+
+The existence of Comet NEOWISE (here depicted as a series of red dots) was discovered by analyzing astronomical survey data acquired by a space telescope, the Wide-field Infrared Survey Explorer.
+Part of a series on
+Machine learning
+and data mining
+Scatterplot featuring a linear support vector machine's decision boundary (dashed line)
+Problems
+Supervised learning
+(classification • regression)
+Clustering
+Dimensionality reduction
+Structured prediction
+Anomaly detection
+Artificial neural network
+Reinforcement learning
+Theory
+Machine-learning venues
+Related articles
+vte
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
+
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyze actual phenomena" with data.[3] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[4][5]
+
+A data scientist is someone who creates programming code, and combines it with statistical knowledge to create insights from data.[6]
+
+
+Contents
+1	Foundations
+1.1	Relationship to statistics
+2	Etymology
+2.1	Early usage
+2.2	Modern usage
+3	Market
+4	Technologies and techniques
+4.1	Techniques
+5	See also
+6	References
+Foundations
+Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data), and applying the knowledge and actionable insights from data to solve problems in a wide range of application domains.[7] The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, information visualization, data integration, graphic design, complex systems, communication and business.[8][9] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.[10][11] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[12]
+
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[13] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[14] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. images) and emphasizes prediction and action.[15] Andrew Gelman of Columbia University has described statistics as a nonessential part of data science.[16] Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing, and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program. He describes data science as an applied field growing out of traditional statistics.[17] In summary, data science can be therefore described as an applied branch of statistics.
+
+Etymology
+Early usage
+In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[17] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C.F. Jeff Wu used the term Data Science for the first time as an alternative name for statistics.[18] Later, attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[19][20]
+
+The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name for computer science.[21] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[21] However, the definition was still in flux. After the 1985 lecture in the Chinese Academy of Sciences in Beijing, in 1997 C.F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting, or limited to describing data.[22] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[20]
+
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[23][21]
+
+Modern usage
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[24] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[23] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[23] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[25]
+
+The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[26] Though it was used by the National Science Board in their 2005 report, "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century," it referred broadly to any key role in managing a digital data collection.[27]
+
+There is still no consensus on the definition of data science and it is considered by some to be a buzzword.[28]
+
+Market
+Big data is becoming a tool for businesses and companies of all sizes.[29] The availability and interpretation of big data has altered the business models of old industries and enabled the creation of new ones.[29] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[30]
+
+Technologies and techniques
+There is a variety of different technologies and techniques that are used for data science which depend on the application. More recently, full-featured, end-to-end platforms have been developed and heavily used for data science and machine learning.
+
+Techniques
+Further information: Statistics § Methods
+Linear regression
+Logistic regression
+Decision trees are used as prediction models for classification and data fitting. The decision tree structure can be used to generate rules able to classify or predict target/class/label variable based on the observation attributes.
+Support-vector machine (SVM)
+Cluster analysis is a technique used to group data together.
+Dimensionality reduction is used to reduce the complexity of data computation so that it can be performed more quickly.
+Machine learning is a technique used to perform tasks by inferencing patterns from data
+Naive Bayes classifiers are used to classify by applying the Bayes' theorem. They are mainly used in datasets with large amounts of data, and can aptly generate accurate results.

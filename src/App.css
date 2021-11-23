@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+
+.App {
+  font-family: "Roboto";
+  text-align: left;
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.react-chatbot-kit-chat-container {
+  width: 325px;
+  margin-left: 600px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+}
+
+.react-chatbot-kit-chat-header {
+  background-color: darkblue;
+  color: white;
+}
+
+.react-chatbot-kit-chat-bot-avatar-container {
+  background-color: darkblue;
+}
+
+.react-chatbot-kit-chat-bot-avatar-letter {
+  color: white;
+}
+
+.react-chatbot-kit-chat-bot-message {
+  background-color: darkblue;
+  margin-left: 0px;
+}
+
+.react-chatbot-kit-chat-bot-message-arrow {
+  border-right: 8px solid darkblue;
+}
+
+.react-chatbot-kit-user-chat-message {
+  color: darkblue;
+  background-color: #b6b6b6;
+}
+
+.react-chatbot-kit-user-chat-message-arrow {
+  border-left: 8px solid #b6b6b6;
+}
+
+.option-button {
+  color: #00008b;
+  background-color: white;
+}
+
+.react-chatbot-kit-chat-btn-send {
+  background-color: #00008b;
+}
+
+.solutionCard-container {
+  color: white;
+}
+
+.react-chatbot-kit-chat-input:focus {
+  outline: none;
+}
+
+
+.ChatbotButton {
+  background-color: #1b1394;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  cursor: pointer;
+  overflow: hidden;
+  position: fixed;
+  bottom: 25px;
+  right: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.ChatbotButton img {
+  width: 28px;
+  padding: 18px;
+  position: absolute;
+  transition: 0.8s ease-in-out;
+}
+
+

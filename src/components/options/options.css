@@ -1,0 +1,11 @@
+.options-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .option-button {
+    color: darkblue;
+    border-color: darkblue;
+    background-color: darkblue;
+  }
+  
